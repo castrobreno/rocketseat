@@ -1,0 +1,17 @@
+.heading-1{
+    font-size: var(--font-size-600);
+    font-weight: var(--font-weight-bold);
+    line-height: var(--line-height-170);
+}
+
+.paragraph-md{
+    font-size: var(--font-size-150);
+    font-weight: var(--font-weight-regular);
+    line-height: var(--line-height-125);
+}
+
+.paragraph-sm{
+    font-size: var(--font-size-100);
+    font-weight: var(--font-weight-regular);
+    line-height: var(--line-height-125);
+}
